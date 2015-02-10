@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\manual_dota\code\client\Assets\Scripts\Common\EventTriggerListener.cs">
+    <Files>
+      <File FileName="..\..\manual_dota\code\client\Assets\Scripts\Common\EventTriggerListener.cs" Line="22" Column="22" />
+      <File FileName="..\..\manual_dota\code\client\Assets\Scripts\Controller\GameManger\GManger.cs" Line="37" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
